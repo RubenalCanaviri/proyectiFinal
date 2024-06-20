@@ -1,0 +1,15 @@
+********** Factura de Compra **********
+
+NIT: 1020229024
+Usuario: ç ˜ﬂËç
+Carnet de Identidad: -927425344
+
+Producto Comprado:
+N√∫mero de Producto: 1
+Marca: Huari
+Descripci√≥n: Tradicional x12 620cc
+Cantidad Comprada: 1
+Precio por Caja/Paquete: 162 Bs.
+Precio Total: 162 Bs.
+
+Fecha de Compra: 1

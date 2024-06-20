@@ -1,0 +1,15 @@
+********** Factura de Compra **********
+
+NIT: 1020229024
+Usuario: à ıü6à
+Carnet de Identidad: -886661952
+
+Producto Comprado:
+N√∫mero de Producto: 6
+Marca: Maltin
+Descripci√≥n: x12 620 cc Ret
+Cantidad Comprada: 10
+Precio por Caja/Paquete: 57 Bs.
+Precio Total: 570 Bs.
+
+Fecha de Compra: 10/10/2024

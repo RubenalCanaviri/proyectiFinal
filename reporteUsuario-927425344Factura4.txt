@@ -1,0 +1,15 @@
+********** Factura de Compra **********
+
+NIT: 1020229024
+Usuario: ç ˜ﬂËç
+Carnet de Identidad: -927425344
+
+Producto Comprado:
+N√∫mero de Producto: 4
+Marca: Pepsi
+Descripci√≥n: x12 1l Pet
+Cantidad Comprada: 20
+Precio por Caja/Paquete: 46.5 Bs.
+Precio Total: 930 Bs.
+
+Fecha de Compra: 20

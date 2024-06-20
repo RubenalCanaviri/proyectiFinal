@@ -1,0 +1,15 @@
+********** Factura de Compra **********
+
+NIT: 1020229024
+Usuario: à ıü6à
+Carnet de Identidad: -886661952
+
+Producto Comprado:
+N√∫mero de Producto: 3
+Marca: Pepsi
+Descripci√≥n: Black 2l x6 Pet
+Cantidad Comprada: 10
+Precio por Caja/Paquete: 50.5 Bs.
+Precio Total: 505 Bs.
+
+Fecha de Compra: 10/20/2022
